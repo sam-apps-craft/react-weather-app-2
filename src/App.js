@@ -7,7 +7,7 @@ export default function App() {
     <div className="App">
       <div className="container">
 
-        <Weather />
+        <Weather defaultCity = "Tadcaster"/>
         <footer>
           This project was coded by Sam Raymond and is open-sourced on{" "}
           <a
