@@ -10,10 +10,9 @@
   list-style: none;
 }
 
-.WeatherInfo img {
+.WeatherInfo .icon {
   width: 100px;
-  margin-top: -20px;
- 
+  margin-left: 10px;
 }
 
 .WeatherInfo .temperature {
